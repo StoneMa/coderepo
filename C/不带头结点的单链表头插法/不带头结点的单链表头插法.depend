@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426427595 source:d:\workspace\c\不带头结点的单链表头插法\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

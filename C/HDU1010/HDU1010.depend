@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419341156 source:d:\workspace\c\hdu1010\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1427502767 source:d:\workspace\数据结构\祖玛\main.cpp
+	<iostream>
+	<malloc.h>
+	<cstdio>
+	<cstring>
+

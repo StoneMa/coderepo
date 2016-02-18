@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1422170100 source:d:\workspace\c\字符串出现次数\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

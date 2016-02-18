@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426490215 source:d:\workspace\c\linkedlist\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

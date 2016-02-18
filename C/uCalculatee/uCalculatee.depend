@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412938733 source:d:\workspace\c\ucalculatee\main.cpp
+	<iostream>
+	"stdio.h"
+

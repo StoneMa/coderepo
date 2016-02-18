@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420295480 source:d:\workspace\c\newyear\main.cpp
+	<iostream>
+	<stdio.h>
+

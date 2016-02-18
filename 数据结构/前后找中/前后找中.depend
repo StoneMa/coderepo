@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430222461 source:c:\users\stone.ma\onedrive\工作文件\代码\c\数据结构\前后找中\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

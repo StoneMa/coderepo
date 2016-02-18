@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432201888 source:c:\users\stone.ma\onedrive\工作文件\代码\c\数据结构\矩阵快速幂\main.cpp
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<iostream>
+

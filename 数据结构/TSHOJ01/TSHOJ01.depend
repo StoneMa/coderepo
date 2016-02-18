@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426903314 source:d:\workspace\数据结构\tshoj01\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

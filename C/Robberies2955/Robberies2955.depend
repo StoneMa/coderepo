@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414158665 source:d:\workspace\c\robberies2955\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+

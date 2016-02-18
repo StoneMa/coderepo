@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1419253964 source:d:\workspace\c\dfsnumber\main.cpp
+	<iostream>
+	<stdio.h>
+

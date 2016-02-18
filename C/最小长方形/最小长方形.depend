@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1422180052 source:d:\workspace\c\最小长方形\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

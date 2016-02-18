@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429962242 source:c:\users\stone.ma\onedrive\工作文件\代码\c\数据结构\bfs宽度搜索\main.cpp
+	<iostream>
+	<queue>
+	<cstdio>
+	<cstring>
+

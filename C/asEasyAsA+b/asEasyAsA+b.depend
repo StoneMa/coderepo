@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413968179 source:d:\workspace\c\aseasyasa+b\main.cpp
+	<iostream>
+	"stdio.h"
+

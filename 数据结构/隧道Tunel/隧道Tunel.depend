@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429358195 source:d:\workspace\数据结构\数据结构排序方式细分\隧道tunel\main.cpp
+	<iostream>
+	<cstdio>
+	<malloc.h>
+

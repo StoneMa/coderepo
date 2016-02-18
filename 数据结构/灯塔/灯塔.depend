@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1427978315 source:d:\workspace\数据结构\灯塔\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdint.h>
+	<algorithm>
+
